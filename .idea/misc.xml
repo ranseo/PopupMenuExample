@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/aa/Desktop/PopupMenuExample/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/aa/Desktop/PopupMenuExample/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/aa/Desktop/PopupMenuExample/app/src/main/res/layout/list_item.xml" value="0.1875" />
         <entry key="..\:/Users/aa/Desktop/PopupMenuExample/app/src/main/res/menu/actions.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/aa/Desktop/PopupMenuExample/app/src/main/res/menu/context_menu.xml" value="0.36614583333333334" />
       </map>
     </option>
   </component>
